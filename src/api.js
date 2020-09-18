@@ -6,8 +6,6 @@ const api = axios.create({
     language: "en-US"
   }
 });
-
-
 export const moviesApi = {
   nowPlaying: () => api.get("movie/now_playing"),
   upcoming: () => api.get("movie/upcoming"),
