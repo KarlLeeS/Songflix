@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Songflix/static/js/main.1b17be16.chunk.js",
+    "main.js.map": "/Songflix/static/js/main.1b17be16.chunk.js.map",
+    "runtime-main.js": "/Songflix/static/js/runtime-main.4594f4b5.js",
+    "runtime-main.js.map": "/Songflix/static/js/runtime-main.4594f4b5.js.map",
+    "static/js/2.58f82731.chunk.js": "/Songflix/static/js/2.58f82731.chunk.js",
+    "static/js/2.58f82731.chunk.js.map": "/Songflix/static/js/2.58f82731.chunk.js.map",
+    "index.html": "/Songflix/index.html",
+    "precache-manifest.455792814a86ca244551aa8fe11015e5.js": "/Songflix/precache-manifest.455792814a86ca244551aa8fe11015e5.js",
+    "service-worker.js": "/Songflix/service-worker.js",
+    "static/js/2.58f82731.chunk.js.LICENSE.txt": "/Songflix/static/js/2.58f82731.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/Songflix/static/media/noPosterSmall.87a0eb6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4594f4b5.js",
+    "static/js/2.58f82731.chunk.js",
+    "static/js/main.1b17be16.chunk.js"
+  ]
+}
