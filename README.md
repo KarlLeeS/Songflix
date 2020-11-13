@@ -1,10 +1,5 @@
 # Songflix 
 
-Learing React by cloning 'popcorn time' website.
+Learing React by cloning Netflix website. it is just light project to practice react.
 
-## Screens 
-
-- [ ] Home
-- [ ] TV Shows 
-- [ ] Search 
-- [ ] Detail
+enjoy coding~ 
